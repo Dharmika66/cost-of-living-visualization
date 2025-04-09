@@ -46,5 +46,5 @@ Each row in the dataset represents a city and includes:
 
 ## Author
 
-**Dharmika Aman**  
+**Dharmika **  
 [GitHub Profile](https://github.com/Dharmika66)
